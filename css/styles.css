@@ -1,0 +1,21 @@
+img {
+  width: 100%;
+  height: auto;
+}
+
+p {
+  color: red;
+  font-size: 1.5vw;
+}
+
+li {
+
+  width: 20%;
+}
+ ol {
+   color: red;
+ }
+
+ .sidebar li {
+   float: left;
+ }
